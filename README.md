@@ -17,6 +17,11 @@ Features
 <li>Have button to switch hiragana and katakana</li> 
 <li>Can write multi box orther name class</li>
 </ul>
+Notice 
+------------
+<ul>
+<li>Dont forget add jquery and plugin <a href = "https://github.com/accursoft/caret">jQuery Caret</a></li>
+</ul>
 Documentation
 -------
 this is just frist code , i will update when have update . 
@@ -56,6 +61,7 @@ type = 'hira'; // please dont forget this value
 Credits
 -------
 first update from vuhongminh911@gmail.com (yoroshiku111yh)
+use help from <a hre="https://github.com/accursoft/caret">jQuery Caret</a>
 I'm will happy if this code helpful with you 
 For Contributors
 ------
