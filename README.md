@@ -9,6 +9,7 @@ December 19 2014
 Convert language while Typing  
 =======================
 get ideas from google tranlse . how is it work to convert hiragana . this plugin can add textbox without google tranlse to convert alpha to hiragana and kata is simple.
+<a href = "http://converthikata.freevnn.com/"><b>You can check Demo here</b></a></br>
 Features
 -------
 <ul>
