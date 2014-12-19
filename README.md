@@ -60,9 +60,9 @@ type = 'hira'; // please dont forget this value
 	Default will be type = 'hira' , please dont forget . 
 Credits
 -------
-first update from vuhongminh911@gmail.com (yoroshiku111yh)
+first update from vuhongminh911@gmail.com (yoroshiku111yh)</br>
 use help from <a hre="https://github.com/accursoft/caret">jQuery Caret</a>
-I'm will happy if this code helpful with you 
+</br>I'm will happy if this code helpful with you 
 For Contributors
 ------
 I hope you like this code and make this become simple and faster toghether . Because this is just basic . 
